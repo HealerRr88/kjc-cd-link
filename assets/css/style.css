@@ -98,7 +98,6 @@ body {
     height: auto;
     min-height: 220px;
     object-fit: contain;
-    width: 70%;
 }
 
 .banner-text {
@@ -108,7 +107,7 @@ body {
     position: absolute;
     left: 0;
     right: 0;
-    bottom: 180px;
+    bottom: 0;
 }
 
 .banner-text p {
@@ -1584,7 +1583,7 @@ a {
 
     .banner-text {
         width: 100%;
-        bottom: 100px;
+        bottom: -25px;
     }
 
     .banner-text p {
