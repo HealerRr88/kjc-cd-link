@@ -57,12 +57,13 @@ body {
   display: flex;
   margin-top: 60px;
   margin: 0 auto;
-  align-items: flex-start;
+  align-items: center;
   width: 80%;
   max-width: 100%;
   box-sizing: border-box;
   overflow: hidden;
   transition: all 0.3s ease;
+  max-width: 1500px;
 }
 
 .left-section {
